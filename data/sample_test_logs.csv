@@ -1,0 +1,9 @@
+module_name,no_of_test_cases,no_of_failed_tests,code_changes,past_bugs,bug_found
+LoginModule,10,2,5,1,1
+PaymentModule,15,0,3,0,0
+ProfileModule,8,1,2,0,1
+CheckoutModule,12,0,1,0,0
+SearchModule,20,4,6,2,1
+DashboardModule,10,0,2,0,0
+ReportsModule,18,3,4,1,1
+NotificationModule,7,0,1,0,0
