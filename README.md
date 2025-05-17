@@ -28,6 +28,10 @@ It enables QA teams to proactively focus on high-risk areas during testing, impr
     ```
 3. Launch Streamlit app:
     ```
+    python -m streamlit run streamlit_app/app.py
+    ```
+    or
+    ```
     streamlit run streamlit_app/app.py
     ```
 ## Sample Data Format to use for uploading
