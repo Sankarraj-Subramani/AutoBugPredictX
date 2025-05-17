@@ -30,8 +30,12 @@ It enables QA teams to proactively focus on high-risk areas during testing, impr
     ```
     streamlit run streamlit_app/app.py
     ```
-
-## 📊 Sample Data Format
+## Sample Data Format to use for uploading
+To test the app, a sample dataset is provided at:
+```
+📁 /data/sample_test_logs.csv
+```
+## Sample Data Format
 | module_name | no_of_test_cases | no_of_failed_tests | code_changes | past_bugs | bug_found |
 |-------------|------------------|--------------------|--------------|-----------|-----------|
 | LoginModule | 10               | 2                  | 5            | 1         | 1         |
